@@ -4,5 +4,5 @@
 just install
 
 ```
-pip install pyguy
+pip install pygame
 ```
